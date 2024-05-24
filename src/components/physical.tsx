@@ -27,7 +27,7 @@ const Physical = () => {
   return (
     <div className="text-[#f9fdff] p-8 items-center justify-center mt-2">
       <p className="text-4xl">
-        <span className="text-[#ff4b57]">InOrganic Blogs</span>
+        <span className="text-[#ff4b57]">Physical Blogs</span>
         <div className="w-[210px] h-1.5 rounded mt-2 bg-[#ff4b57]"></div>
       </p>
 
